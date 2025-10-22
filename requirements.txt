@@ -1,6 +1,7 @@
 streamlit
+pandas
+matplotlib
 chromadb
 sentence-transformers
 python-dotenv
-matplotlib
-pandas
+google-generativeai>=0.7.2
