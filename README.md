@@ -35,6 +35,8 @@ BudgetBuddy/
 ├── requirements.txt # Required libraries
 ├── README.md # Project description
 └── .env (optional) # API keys (Gemini etc.)
+── expenses.json # 
+└── goals.json #
 ```
 
 
