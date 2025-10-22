@@ -1,0 +1,4 @@
+.env
+data/chroma_db/
+data/expenses.json
+__pycache__/
